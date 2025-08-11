@@ -2,7 +2,7 @@
 //  ShortcutApp.swift
 //  Shortcut
 //
-//  Created by Connor Dailey on 4/15/25.
+//  Created by Connor Dailey and Aidan Fahey on 4/15/25.
 //
 
 import SwiftUI
