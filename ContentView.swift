@@ -1,5 +1,5 @@
 // Authors: Aidan Fahey, Connor Dailey
-// Date Finished: 04/16/2025
+// Date Submitted: 04/16/2025
 // Purpose: program designed to show the shortest path to a destination with specified amount of locations, mode of transportation, and ETA.
 
 import SwiftUI
