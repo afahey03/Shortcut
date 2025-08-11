@@ -1,7 +1,6 @@
-//authors: Aidan Fahey, Connor Dailey
-//date: 04/16/20205
-//purpose: program designed to show the shortest path to a destination with specified amount of locations, mode of transportation, and ETA.
-//AI generation: We used ChatGPT to provide approach ideas, skeletons, and help with functions for the content view body (35% percent wholly provided by AI). Whereas, the other portions we used AI for debugging and troubleshooting, then implementing new approaches by ourselves.
+// Authors: Aidan Fahey, Connor Dailey
+// Date Finished: 04/16/2025
+// Purpose: program designed to show the shortest path to a destination with specified amount of locations, mode of transportation, and ETA.
 
 import SwiftUI
 import MapKit
