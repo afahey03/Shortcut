@@ -1,7 +1,7 @@
 # Shortcut
 
 ## Intro
-Senior capstone project for Programming Languages Design & Implementation class, built by Aidan Fahey and Connor Dailey[@condailey] (College of the Holy Cross 2025)
+Senior capstone project for Programming Languages Design & Implementation class, built by Aidan Fahey and [Connor Dailey](https://github.com/condailey) (College of the Holy Cross 2025)
 
 ## The Program
 - Shortcut is a map application written in Swift in which a user can search for locations using a natural language query.
